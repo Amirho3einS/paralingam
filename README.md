@@ -10,3 +10,8 @@ First, make run.bash executable:
 $ chmod +x run.bash
 
 Next, execute run.bash and select the desired experiment. Select 0 for Real Dataset (ParaLiNGAM), 1 for Synthetic (ParaLiNGAM), 2 for Impact of threshold mechanism (ParaLiNGAM), 3 for ParaLiNGAM Vs Baseline methods, 4 for  Real Dataset (DirectLiNGAM), 5 for Synthetic(DirectLiNGAM), 6 for  Real Dataset (DirectLiNGAM Optimized), and 7 for Synthetic(DirectLiNGAM Optimized).
+
+
+# Data
+The data generation process is explained in the paper. In the meantime, the data can also be accessed [here](https://tinyurl.com/ParaLiNGAM).
+
